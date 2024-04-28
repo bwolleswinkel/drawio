@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-28T12:50:12.443Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="r4DzjWUm6U6Rd3UnPwEO" version="24.3.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-28T14:02:18.593Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="aHCxX0t74gczGDdbEwP0" version="24.3.1" type="github" pages="2">
   <diagram name="fta_plane" id="ZMkeT3fpXiXIag67BhHE">
     <mxGraphModel dx="1026" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,14 +10,14 @@
         <mxCell id="OTLXCHBUn5IH01W_qUwW-2" value="Loss of&lt;div&gt;yaw&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OTLXCHBUn5IH01W_qUwW-3" value="Loss of&lt;div&gt;roll&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="390" width="120" height="60" as="geometry" />
+        <mxCell id="OTLXCHBUn5IH01W_qUwW-3" value="Loss of&lt;div&gt;rolling&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OTLXCHBUn5IH01W_qUwW-4" value="Loss of&lt;div&gt;rolling&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="390" width="120" height="60" as="geometry" />
+        <mxCell id="OTLXCHBUn5IH01W_qUwW-4" value="Loss of&lt;div&gt;pitching&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OTLXCHBUn5IH01W_qUwW-5" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=and;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="440" y="270" width="60" height="40" as="geometry" />
+          <mxGeometry x="630" y="260" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OTLXCHBUn5IH01W_qUwW-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OTLXCHBUn5IH01W_qUwW-6" target="OTLXCHBUn5IH01W_qUwW-1">
           <mxGeometry relative="1" as="geometry" />
@@ -36,6 +36,27 @@
         </mxCell>
         <mxCell id="OTLXCHBUn5IH01W_qUwW-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OTLXCHBUn5IH01W_qUwW-4" target="OTLXCHBUn5IH01W_qUwW-5">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OTLXCHBUn5IH01W_qUwW-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OTLXCHBUn5IH01W_qUwW-12" target="OTLXCHBUn5IH01W_qUwW-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OTLXCHBUn5IH01W_qUwW-12" value="Rudder&lt;div&gt;defect&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="580" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OTLXCHBUn5IH01W_qUwW-14" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=and;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="700" y="500" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OTLXCHBUn5IH01W_qUwW-15" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=and;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="850" y="540" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OTLXCHBUn5IH01W_qUwW-16" value="Left elevator&lt;div&gt;defect&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="585" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OTLXCHBUn5IH01W_qUwW-17" value="Right elevator&lt;div&gt;defect&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="585" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OTLXCHBUn5IH01W_qUwW-18" value="&lt;div&gt;THS&lt;/div&gt;&lt;div&gt;defect&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="585" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
