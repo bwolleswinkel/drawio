@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-02T15:20:04.297Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="tIEberFHJkgYK7Be8Djv" version="24.6.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-07-02T15:20:40.923Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="DFCTVd-mEW915cAXV0MG" version="24.6.4" type="github" pages="3">
   <diagram name="fta_plane" id="ZMkeT3fpXiXIag67BhHE">
     <mxGraphModel dx="1853" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -679,6 +679,12 @@
         </mxCell>
         <mxCell id="JbQUf6rNw1hj8YkNCMXv-31" value="G4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="400" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JbQUf6rNw1hj8YkNCMXv-32" value="G6" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="630" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JbQUf6rNw1hj8YkNCMXv-33" value="G5" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="630" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
