@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-02T15:12:44.834Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="lN360opRDvMfwU84OPBU" version="24.6.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-07-02T15:13:19.243Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="ugOIHtL9UQuIetbyHX4O" version="24.6.4" type="github" pages="3">
   <diagram name="fta_plane" id="ZMkeT3fpXiXIag67BhHE">
     <mxGraphModel dx="1853" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -550,8 +550,11 @@
         <mxCell id="_Yxw9eRaWS1nIdaNAxOn-10" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=or;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="90" y="390" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_Yxw9eRaWS1nIdaNAxOn-11" value="3/3&lt;div&gt;voting&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="_Yxw9eRaWS1nIdaNAxOn-11" value="1/3&lt;div&gt;voting&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="90" y="440" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6nmxkQufyR69EPn76jsK-1" value="G1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="170" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
