@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-03T11:28:38.811Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="CHpDI901I5LuhwfIv7DA" version="24.6.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-07-03T11:31:44.267Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="fRqpodZSmxSJib88yBho" version="24.6.4" type="github" pages="4">
   <diagram name="fta_plane" id="ZMkeT3fpXiXIag67BhHE">
     <mxGraphModel dx="2034" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -690,7 +690,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="VU3Lvkk-1BQ-3aIVwU2i" name="fmea">
-    <mxGraphModel dx="819" dy="409" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="276" dy="138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -977,10 +977,13 @@
         <mxCell id="AO6I99SxmGrxbiXpx57v-9" value="e&lt;sub&gt;1&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="220" y="127.5" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AO6I99SxmGrxbiXpx57v-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AO6I99SxmGrxbiXpx57v-1" target="AO6I99SxmGrxbiXpx57v-10">
+        <mxCell id="AO6I99SxmGrxbiXpx57v-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=1;exitY=0.167;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="AO6I99SxmGrxbiXpx57v-1" target="AO6I99SxmGrxbiXpx57v-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="250" y="170" as="targetPoint" />
-            <mxPoint x="220" y="170" as="sourcePoint" />
+            <mxPoint x="270" y="150" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="220" y="170" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="AO6I99SxmGrxbiXpx57v-10" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
